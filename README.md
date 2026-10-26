@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/60ea6d41-70ec-47fc-bc9b-60a2beb6c8d4
 
 # Mini Town
 
-**A 3D multiplayer chat lobby in Unity where players can move around and communicate with each other.**
+**A multiplayer chat lobby in Unity where players can move around and communicate with each other.**
 
 **Object Serialization:** <br>
 Used ISerializable and packets to send different types of data between clients and the server. <br>
